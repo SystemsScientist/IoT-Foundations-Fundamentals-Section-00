@@ -1,0 +1,80 @@
+
+Lecture 03 - Architectural Overview, 01/19/2023
+---------------------------------------------------------------------------------
+
+IoT is a complext business technology
+
+IoT Definition
+
+	- IoT is an extension of the Internet into the physical world
+	
+IoT Influence
+
+	- IoT tech is an evolution
+	
+	- IoT business is a revolution
+
+IoT Segments
+
+	- B2C - business to consumer
+	
+	- B2B - business to business
+
+B2C
+
+	- Consumer
+
+B2B
+
+	- Commercial
+	
+	- Industrial
+	
+	- Infrastructure
+
+Product Types
+
+	- Smart (Rating: **)
+	
+	- Connected (Rating: ****)
+	
+	- IoT (Rating: **********)
+
+Traditional Engineering View (Rating: *)
+
+	- Application layer
+	
+	- Presentation layer
+	
+	- Session layer
+	
+	- Transport layer
+	
+	- Network layer
+	
+	- Network layer
+	
+	- Data Link layer
+	
+	- Physical layer
+
+Design View (Rating: ****)
+
+	- Front-end, User Touch Points
+	
+	- Enabling Infrastructure 
+	
+	- Back-end, Admin Touch points
+
+
+Business View
+
+	- Software-defined product
+	
+	- Hardware-defined product
+	
+	- Network fabric
+	
+	- External system interface
+
+
